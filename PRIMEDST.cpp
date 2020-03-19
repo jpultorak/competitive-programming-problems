@@ -1,3 +1,6 @@
+//solution to https://www.codechef.com/problems/PRIMEDST
+//O(n*logn*P) using centroid decomposition
+
 #include <bits/stdc++.h>
 
 
